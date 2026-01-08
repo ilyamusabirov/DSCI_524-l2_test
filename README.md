@@ -1,5 +1,6 @@
 # DSCI_524-l2_test
 
+Main push test
 - create a github.com repository
 - fill it out with a readme file, ignore, and licence
 - clone it to your computer
